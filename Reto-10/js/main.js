@@ -12,3 +12,14 @@ for (let i = 0; i <= numVentas; i ++) {
 }
 
 console.log(sumaVentas)
+
+
+// let ventas = prompt("Cuantas compras has hecho? (escribe el número)")
+// let total = 0;
+// let veces = 0;
+// do {
+//     veces ++
+//     let precio = parseInt(prompt("Cuánto has pagado?"));
+//     total += precio;
+// } while (veces < ventas)
+// console.log("Has hecho ", ventas, "ventas y has pagado un total de", total+"€");
